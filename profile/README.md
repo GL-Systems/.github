@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.svg" alt="Lynko Studio" width="72"/>
+<img src="logo.png" alt="Lynko Studio" width="160"/>
 
 # Lynko Studio
 
