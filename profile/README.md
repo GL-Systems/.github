@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="logo.png" alt="Lynko Studio" width="160"/>
+<img src="logo.png" alt="GL Studio" width="160"/>
 
-# Lynko Studio
+# GL Studio
 
 **Carefully crafted software. Connected communities.**
 
 Minecraft plugins, Discord bots and custom software · Born from GoldenLyons, built to go further
 
-[![Website](https://img.shields.io/badge/🌐_Website-lynkostudio.dev-d6b160?style=for-the-badge&labelColor=0e0e10)](https://lynkostudio.dev)
-[![Store](https://img.shields.io/badge/🛒_Store-Products-d6b160?style=for-the-badge&labelColor=0e0e10)](https://lynkostudio.dev/products)
-[![Docs](https://img.shields.io/badge/📚_Docs-Guides-d6b160?style=for-the-badge&labelColor=0e0e10)](https://lynkostudio.dev/documentation)
-[![Contact](https://img.shields.io/badge/✉️_Contact-Let's_talk-d6b160?style=for-the-badge&labelColor=0e0e10)](https://lynkostudio.dev/contact)
-<!-- Lynko Discord: replace INVITE with the server invite and uncomment the line below.
+[![Website](https://img.shields.io/badge/🌐_Website-glstudio.net-d6b160?style=for-the-badge&labelColor=0e0e10)](https://glstudio.net)
+[![Store](https://img.shields.io/badge/🛒_Store-Products-d6b160?style=for-the-badge&labelColor=0e0e10)](https://glstudio.net/products)
+[![Docs](https://img.shields.io/badge/📚_Docs-Guides-d6b160?style=for-the-badge&labelColor=0e0e10)](https://glstudio.net/documentation)
+[![Contact](https://img.shields.io/badge/✉️_Contact-Let's_talk-d6b160?style=for-the-badge&labelColor=0e0e10)](https://glstudio.net/contact)
+<!-- GL Studio Discord: replace INVITE with the server invite and uncomment the line below.
 [![Discord](https://img.shields.io/badge/Discord-Join_the_server-d6b160?style=for-the-badge&logo=discord&logoColor=white&labelColor=0e0e10)](https://discord.gg/INVITE)
 -->
 
@@ -22,7 +22,7 @@ Minecraft plugins, Discord bots and custom software · Born from GoldenLyons, bu
 
 ## 🦁 Where we come from
 
-Lynko Studio grew out of **GoldenLyons Network**, a Minecraft community, and keeps that connection in its identity. You can see it in the `GL-` prefix of every plugin we make.
+GL Studio grew out of **GoldenLyons Network**, a Minecraft community, and keeps that connection in its identity. You can see it in our name and in the `GL-` prefix of every plugin we make.
 
 Our work now goes beyond a single server: we build Discord bots, Minecraft plugins, websites, applications and automation systems for communities, digital projects and teams that need software built for them.
 
@@ -118,6 +118,6 @@ Documentation and configuration are part of the product: you should know what ea
 
 *Born from GoldenLyons. Designed to go further.*
 
-**[lynkostudio.dev](https://lynkostudio.dev)**
+**[glstudio.net](https://glstudio.net)**
 
 </div>
